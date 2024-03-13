@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\panmo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\panmo\\.nuget\\packages"
+    ]
+  }
+}
